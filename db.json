@@ -1,0 +1,39 @@
+{
+  "productos": [
+    {
+      "id": 3,
+      "nombre": "zxcdsfgfa",
+      "precio": "1000226"
+    },
+    {
+      "id": 5,
+      "nombre": "Jugo de Arandanosr",
+      "precio": "6151"
+    },
+    {
+      "nombre": "hgfhgfs",
+      "precio": "100",
+      "id": 8
+    },
+    {
+      "nombre": "ROMAN",
+      "precio": 100,
+      "id": 9
+    },
+    {
+      "nombre": "ROMAN",
+      "precio": 100,
+      "id": 14
+    },
+    {
+      "nombre": "Editado",
+      "precio": "200",
+      "id": 15
+    },
+    {
+      "nombre": "asado",
+      "precio": 5000,
+      "id": 20
+    }
+  ]
+}
